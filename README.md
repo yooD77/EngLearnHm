@@ -81,7 +81,7 @@ cd your-repo
 
 
 项目展示：
-![应用界面](entry/screenshot.png)
+![应用界面](entry/src/resources/base/media/background.png)
 
 
 
