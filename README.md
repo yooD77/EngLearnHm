@@ -98,6 +98,3 @@ cd your-repo
 对应的后台数据HttpServer文件夹，请在尚硅谷鸿蒙英语打卡项目的学习中资料下载。
 
 路径尚硅谷教育vx公众号，回复“鸿蒙”领取🆓配套资料
-
-
-本项目采用 MIT License，详情请见 LICENSE 文件。
