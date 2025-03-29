@@ -75,15 +75,17 @@ cd your-repo
 运行Index
 
 项目展示：
-![欢迎界面](img/ic_welcom.png)
-![欢迎界面](img/ic_home.png)
-![欢迎界面](img/ic_card_no_login.png)
-![欢迎界面](img/ic_mine_no_login.png)
-![欢迎界面](img/ic_login.png)
-![欢迎界面](img/ic_mine.png)
-![欢迎界面](img/ic_card.png)
-![欢迎界面](img/ic_pratice.png)
-![欢迎界面](img/ic_tips.png)
-![欢迎界面](img/ic_record.png)
+
+<img src="img/ic_welcom.png" alt="欢迎界面" width="200">
+<img src="img/ic_home.png" alt="欢迎界面" width="200">
+<img src="img/ic_card_no_login.png" alt="欢迎界面" width="200">
+<img src="img/ic_mine_no_login.png" alt="欢迎界面" width="200">
+<img src="img/ic_login.png" alt="欢迎界面" width="200">
+<img src="img/ic_mine.png" alt="欢迎界面" width="200">
+<img src="img/ic_card.png" alt="欢迎界面" width="200">
+<img src="img/ic_welcom.png" alt="欢迎界面" width="200">
+<img src="img/ic_pratice.png" alt="欢迎界面" width="200">
+<img src="img/ic_tips.png" alt="欢迎界面" width="200">
+<img src="img/ic_record.png" alt="欢迎界面" width="200">
 
 本项目采用 MIT License，详情请见 LICENSE 文件。
