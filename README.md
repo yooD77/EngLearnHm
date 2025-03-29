@@ -81,7 +81,7 @@ HarmonyOS 5.0.1
 
 克隆仓库
 
-git clone https://github.com/yooD77/EngLearnHm
+git clone https://github.com/yooD77/EngLearnHm.git
 
 cd your-repo
 
