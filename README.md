@@ -1,9 +1,8 @@
 # EngLearnHm
+
 鸿蒙开发练习之英语单词打卡
 
 **项目简介**
-
-
 
 本项目是一个基于HarmonyOs开发的英语学习应用，主要核心功能是辅助单词记忆以及分享打卡圈。
 
@@ -19,6 +18,7 @@
 技术栈
 
 本项目使用了以下技术和工具：
+
 1. 常用布局的使用：Column、Row等等
 
 
@@ -48,7 +48,6 @@
 
 10. 事件通知(emitter)
 
-
 安装与使用
 
 1. 环境要求
@@ -56,7 +55,6 @@
 DevEco Studio 5.0.1
 
 HarmonyOS 5.0.1
-
 
 2. 安装步骤
 
@@ -70,19 +68,22 @@ cd your-repo
 
 使用 DevEco Studio 打开项目
 
-
 运行应用
 
-连接真机或启动模拟器 
+连接真机或启动模拟器
 
 运行Index
 
-
-
-
 项目展示：
-![应用界面](entry/src/resources/base/media/background.png)
-
-
+![欢迎界面](img/ic_welcom.png)
+![欢迎界面](img/ic_home.png)
+![欢迎界面](img/ic_card_no_login.png)
+![欢迎界面](img/ic_mine_no_login.png)
+![欢迎界面](img/ic_login.png)
+![欢迎界面](img/ic_mine.png)
+![欢迎界面](img/ic_card.png)
+![欢迎界面](img/ic_pratice.png)
+![欢迎界面](img/ic_tips.png)
+![欢迎界面](img/ic_record.png)
 
 本项目采用 MIT License，详情请见 LICENSE 文件。
