@@ -6,6 +6,26 @@
 
 本项目是一个基于HarmonyOs开发的英语学习应用，主要核心功能是辅助单词记忆以及分享打卡圈。
 
+项目展示：
+<div>
+<img src="img/ic_welcom.png" alt="欢迎界面" width="200">
+<img src="img/ic_home.png" alt="主页" width="200">
+<img src="img/ic_card_no_login.png" alt="打卡-未登陆" width="200">
+</div>
+<div>
+<img src="img/ic_mine_no_login.png" alt="个人中心-未登陆" width="200">
+<img src="img/ic_login.png" alt="手机号登陆" width="200">
+<img src="img/ic_mine.png" alt="个人中心" width="200">
+</div>
+<div>
+<img src="img/ic_card.png" alt="打卡圈" width="200">
+<img src="img/ic_pratice.png" alt="单词练习" width="200">
+<img src="img/ic_tips.png" alt="提示" width="200">
+</div>
+<div>
+<img src="img/ic_record.png" alt="打卡记录" width="200">
+</div>
+
 功能特性
 
 📚 单词记忆：选择单词的答案
@@ -74,18 +94,5 @@ cd your-repo
 
 运行Index
 
-项目展示：
-
-<img src="img/ic_welcom.png" alt="欢迎界面" width="200">
-<img src="img/ic_home.png" alt="欢迎界面" width="200">
-<img src="img/ic_card_no_login.png" alt="欢迎界面" width="200">
-<img src="img/ic_mine_no_login.png" alt="欢迎界面" width="200">
-<img src="img/ic_login.png" alt="欢迎界面" width="200">
-<img src="img/ic_mine.png" alt="欢迎界面" width="200">
-<img src="img/ic_card.png" alt="欢迎界面" width="200">
-<img src="img/ic_welcom.png" alt="欢迎界面" width="200">
-<img src="img/ic_pratice.png" alt="欢迎界面" width="200">
-<img src="img/ic_tips.png" alt="欢迎界面" width="200">
-<img src="img/ic_record.png" alt="欢迎界面" width="200">
 
 本项目采用 MIT License，详情请见 LICENSE 文件。
